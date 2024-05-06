@@ -1,5 +1,3 @@
-- 👋 Hi, We're the @BlockchainnaEscola
-
 ## Intro
 Blockchain na Escola (Blockchain in School) is an innovative organization dedicated to empowering high school students in public schools with the knowledge and skills to navigate the transformative world of blockchain technology. As a fundamental component of the emerging web3 ecosystem, blockchain presents a paradigm shift in internet infrastructure, unlocking new avenues for economic development and social progress.
 
