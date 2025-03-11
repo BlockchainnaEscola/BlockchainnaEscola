@@ -8,17 +8,14 @@ Blockchain na Escola has certified over 30,000 students on-chain and conducted i
 Our curriculum covers blockchain and Web3 fundamentals, focusing on real-world use cases like decentralized finance (DeFi) and social impact initiatives. We are expanding our reach to universities and tech companies, bridging the gap between new talent and the Web3 job market. Our next step is to develop a Web3-based dApp to incentivize learning and enable on-chain tracking of student progress.
 
 
-**A Narrative Shift: From Hope to Hardship**
+## Web3 and Blockchain: Tools for Empowerment and Income Generation
 
 Global South faces growing economic inequality and limited access to emerging technologies. Public school students are often overlooked in digital education initiatives and lack exposure to blockchain and Web3, leaving them disconnected from new career opportunities.
 
-**Web3 and Blockchain: Tools for Empowerment and Income Generation**
-
 Blockchain and Web3 offer a new path for social mobility—providing access to financial tools, new job markets, and decentralized economic models. However, most content remains inaccessible, full of technical jargon, and unavailable in Portuguese and Spanish.
 
-**Blockchain na Escola: Bridging the Gap**
-
 To solve this, Blockchain na Escola was founded with a mission to bring free, high-quality blockchain education to public schools. From a single classroom experiment in Brazil, we’ve expanded across multiple states and certified over 30,000 students.
+
 
 **A New Approach: Scaling Web3 Education**
 
@@ -31,27 +28,6 @@ To solve this, Blockchain na Escola was founded with a mission to bring free, hi
 - Hands-on Learning: Providing opportunities for practical application through dapp interactions and group activities.
 
 - Continuous Improvement: Embracing feedback and adapting content to align with the evolving needs of students.
-
-**Empowering Public School Teachers**
-
-The next chapter of Blockchain na Escola focuses on training public school teachers to deliver comprehensive web3 education. This approach aims to:
-
-- National Reach: Expand the program's impact across Brazil and potentially throughout Latin America.
-
-- Teacher-Centered Development: Empower teachers to co-create and refine educational content, ensuring its relevance and effectiveness.
-
-- Decentralized Knowledge Sharing: Foster a network of teachers to exchange knowledge and continuously improve teaching practices.
-
-**Web3: A Paradigm Shift for Social and Economic Transformation**
-
-- Blockchain na Escola firmly believes in the transformative power of web3:
-
-- Decentralization: Beyond aesthetics, web3 represents a shift away from the current economic model's monopolistic tendencies.
-
-- User Empowerment: Web3 empowers individuals, challenging the dominance of internet platforms that exploit their users.
-
-- Social and Environmental Impact: Web3 holds immense potential for positive social and environmental impact, particularly in underserved communities.
-
 
 ## Results  
 
@@ -66,6 +42,20 @@ The project plans to address this by creating engaging activities, exploring in-
 - **20% NFT certification rate**, suggesting the need for increased perceived value.  
 - **50% of distributed tokens claimed**, with connectivity issues being a primary barrier.  
 - **Engagement in corporate and educational events**, expanding outreach beyond schools.  
+
+
+## Web3: A Paradigm Shift for Social and Economic Transformation**
+
+- Blockchain na Escola firmly believes in the transformative power of web3
+
+- National Reach: Expand the program's impact across Brazil and potentially throughout Latin America.
+
+- Decentralization: Beyond aesthetics, web3 represents a shift away from the current economic model's monopolistic tendencies.
+
+- User Empowerment: Web3 empowers individuals, challenging the dominance of internet platforms that exploit their users.
+
+- Social and Environmental Impact: Web3 holds immense potential for positive social and environmental impact, particularly in underserved communities.
+
 
 ## Challenges  
 
