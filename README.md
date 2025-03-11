@@ -1,5 +1,10 @@
 ## Intro
-Blockchain na Escola (Blockchain in School) is an innovative organization that uses education as a fundamental component of the emerging web3 ecosystem, offering free courses on blockchain and Web3, focusing on public schools to bridge the education gap in underserved communities. Our mission is to accelerate Web3 adoption in Latin America by training new talent, fostering innovation, and connecting students with real-world opportunities in the blockchain industry. Through hands-on learning and on-chain certification, we prepare the next generation to shape the future of decentralized technology.
+Blockchain na Escola (Blockchain in School) is an innovative organization that uses education as a fundamental component of the emerging web3 ecosystem, offering free courses on blockchain and Web3, focusing on public schools to bridge the education gap in underserved communities. 
+
+Our mission is to accelerate Web3 adoption in Latin America by training new talent, fostering innovation, and connecting students with real-world opportunities in the blockchain industry. Through hands-on learning and on-chain certification, we prepare the next generation to shape the future of decentralized technology.
+
+![photo_2025-03-01_23-26-50](https://github.com/user-attachments/assets/845a26a0-8fa2-4cbe-a48e-cc6668016f2c)
+
 
 ## Executive Summary
 
