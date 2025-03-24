@@ -3,6 +3,10 @@
 
 ---
 
+![photo_2025-03-01_23-26-45](https://github.com/user-attachments/assets/e6818a56-233d-4caf-b49c-9a182073426d)
+
+
+
 ## Executive Summary  
 
 **Blockchain na Escola** (Blockchain in School) is an innovative organization that uses education as a fundamental component of the emerging Web3 ecosystem, offering free courses on blockchain and Web3, focusing on public schools to bridge the education gap in underserved communities.  
@@ -52,16 +56,23 @@ Launch a new course reflecting the latest advancements in blockchain and Web3 te
 ## Methodology  
 
 ### 1. HQ Comic Style  
-- Use culturally relevant comic books to simplify blockchain concepts for diverse audiences.  
+- Use culturally relevant comic books to simplify blockchain concepts for diverse audiences.
+
+  ![Blockchain and Privacy empowering traditional communities](https://github.com/user-attachments/assets/2758ce10-db4c-4204-8020-9a1fd59daab0)
 
 ### 2. Culture and Social Media References  
 - Connect Web3 to real-world topics like enterprise centralization and creator ownership.  
 
 ### 3. IRL and Online Activities  
-- Combine in-person workshops with online courses to maximize reach.  
+- Combine in-person workshops with online courses to maximize reach.
+
+  ![William Caldeira (willcaldeira__)-565](https://github.com/user-attachments/assets/14b45087-898f-47e5-990f-6f39185bd232)
+
 
 ### 4. Learn-to-Earn Experience  
 - Incentivize participation with raffles and event access (e.g., Modular Carnival).  
+
+![William Caldeira (@willcaldeira__)-574](https://github.com/user-attachments/assets/80747dd8-5e2b-4a31-be8b-db2aa9569ac1)
 
 ### 5. Celo Blockchain Integration  
 - **Why Valora Wallet?**: Phone/email onboarding avoids seed phrase complexity.  
@@ -80,6 +91,7 @@ Launch a new course reflecting the latest advancements in blockchain and Web3 te
 ### Web3 Event Collaboration  
 - Partnered with **ColaBH** to promote networks and engage students at Modular Carnival.  
 
+![Blockchain and Privacy empowering traditional communities](https://github.com/user-attachments/assets/fcca233c-7257-4c44-a279-00ea73ccc459)
 ---
 
 ## Challenges  
