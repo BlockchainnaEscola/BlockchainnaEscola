@@ -1,5 +1,9 @@
 ### **REFI IN THE CLASSROOM**
 
+
+![QmTqS3raEwb3qqy5ZnBtna6ZeZeCwuZGUqjVQzPq515nSB](https://github.com/user-attachments/assets/043f965b-8e90-45b7-8c90-50ba179fc79b)
+
+
 **REFI IN THE CLASSROOM** is an educational initiative designed to introduce **ReFi (Regenerative Finance)** and **DeFi (Decentralized Finance)** concepts to Brazilian public school students. Located in the city of **Serra, Espírito Santo**, this project aims to empower young people with the knowledge and tools to address local challenges using blockchain technology.
 
 ---
@@ -23,6 +27,9 @@ Over **12 weeks**, students will:
 - Explore how ReFi and DeFi can address Brazilian challenges like deforestation and economic inequality.
 - Develop a community-driven project to make Serra smarter and more sustainable.
 
+![QmXnTurTZFUaBUE8VgKoPNrL8Bv7xhzkghEiULoAtxcbsB](https://github.com/user-attachments/assets/b4170c02-7d69-458c-8770-077bda966bc5)
+
+
 The course is coordinated by:
 - **Marcelo Silva**: PhD in Practical Philosophy, JS Developer, and blockchain expert.
 - **André Donadia**: Master in Philosophy and English teacher.
@@ -40,6 +47,8 @@ The course is divided into three modules:
 1. **Introduction to Blockchain**: History, technology, and career opportunities.
 2. **Deep Dive into Blockchain**: Tokens, NFTs, smart contracts, and multi-chain solutions.
 3. **ReFi and DeFi Applications**: Social, environmental, and humanitarian uses of blockchain.
+
+![QmXQ6JbT4628BWGaafPnydURBkDKHSBMRud7cFFeyPZeYW](https://github.com/user-attachments/assets/958de9be-ff45-46fe-b1bc-3efdf43d9ca4)
 
 ---
 
