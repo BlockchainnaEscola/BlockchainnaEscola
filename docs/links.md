@@ -9,10 +9,10 @@ This document lists important links for understanding and following the Blockcha
 | GitHub          | [Main Repository](https://github.com/BlockchainnaEscola/BlockchainnaEscola)
 | Google Drive    | [Documentation Drive](https://drive.google.com/drive/u/3/folders/1wR3MW8mYvnWli6KM5rAIA3E-P_K8DBpl)
 | Website         | [Official Website](https://blockchainnaescola.org)
-| Giveth          | [Giveth Page] (https://giveth.io/project/blockchain-in-the-classroom)
-| Linktree        | [Linktree] (https://linktr.ee/blockchainnaescola)
-| Medium          | [Medium Page] (https://medium.com/@blockchainnaescola)
-| Substack        | [Substack Page] (https://blockchainnaescola.substack.com/)
+| Giveth          | [Giveth](https://giveth.io/project/blockchain-in-the-classroom)
+| Linktree        | [Linktree](https://linktr.ee/blockchainnaescola)
+| Medium          | [Medium](https://medium.com/@blockchainnaescola)
+| Substack        | [Substack](https://blockchainnaescola.substack.com/)
 
 
 
