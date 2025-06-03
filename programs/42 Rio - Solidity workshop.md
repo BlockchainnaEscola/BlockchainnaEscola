@@ -4,7 +4,7 @@
 
 The **Blockchain na Escola** program joined forces with **42 Rio** to foster a new wave of education and social impact through Web3 and blockchain technologies. The initiative took place through a series of events, including an institutional talk and a hands-on workshop titled **"Mão na Massa"** — guiding students from beginner level to the practical application of blockchain in just 10 days.
 
-![42Rio](docs/images/42Rio.png)
+![42Rio](images/42Rio.jpg)
 
 ## Program Goals
 
