@@ -205,6 +205,7 @@ Based on the existing **Orbit Alliance** project developed by 42 Rio (whitepaper
 ### Strategic Opportunity
 On **December 12, 2024**, the Blockchain na Escola program joined 42 Rio's institutional event, presenting a panel on careers in Web3. The talk drew major interest, leading to **22 student signups** for the workshop **"Mão na Massa"**, held in **February 2025**. The partnership included access to 42 Rio’s physical infrastructure for future events.
 
+![42Rio Workshop](images/42Rio Workshop.png)
 
 ### Workshop Structure
 - Exclusive group: 10 Orbit Project cadets  
