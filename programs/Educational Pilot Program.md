@@ -121,6 +121,24 @@ Blockchain in School is an innovative educational pilot program designed to intr
 - Portfolio building on Web3 platforms
 - Mentorship from protocol teams
 
+### Team Structure
+
+**1. Blockchain na Escola Core Team**
+- **Pilot Coordinator** ($300): Overall planning, organization, and reporting
+- **Operations Coordinator** ($250): Tools, infrastructure, and operational structure
+- **Designer** ($200): Marketing materials, landing page, and publications
+- **Web3 Operations** (10% results): Protocol partnerships and fundraising
+
+**2. School Implementation Team**
+- **School Coordinator** ($300): Project implementation and State Education Department liaison
+- **2 Interns** ($100 each): Student engagement and coordination support
+
+**3. Student Support**
+- **5 Student Monitors** ($50 each): Peer mentoring and project multiplication
+
+**Total Monthly Team Cost:** $1,400
+
+
 ### Revenue Model
 
 1. **Sponsorship Tiers**
