@@ -22,6 +22,9 @@ Blockchain in School is an innovative educational pilot program designed to intr
 - Escola Estadual Cristiano Machado
 - Escola Estadual Jardim Linhares
 
+**Subject:**
+- Tokenized and gamified grading systems created by students for schools.
+
 ### Objectives
 
 1. **Educational Impact**
