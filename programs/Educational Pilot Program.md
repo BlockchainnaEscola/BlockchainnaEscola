@@ -1,4 +1,4 @@
-# Blockchain in School: Educational Pilot Program #
+# Blockchain in School: Educational Pilot Program 
 ## Tokenizing Public Education in Brazil
 
 ### Executive Summary
@@ -97,6 +97,7 @@ Blockchain in School is an innovative educational pilot program designed to intr
 - Day 7: Presentation Preparation
 
 **Hackathon Day**
+- Venue: Local Tech Hub
 - Morning: Final preparations and setup
 - Afternoon: Project presentations
 - Evening: Judging and awards ceremony
