@@ -67,23 +67,23 @@ Blockchain in School is an innovative educational pilot program designed to intr
 - **Revenue Generation:** Break-even achieved on pilot investment
 - **Protocol Integration:** 2+ protocols actively supporting expansion
 
-### Expected Results
+### Roadmap
 
-**Short-term (3 months)**
+**Pilot Program**
 - 50 certified blockchain-literate students
 - 10 trained teacher-facilitators
 - 10+ functional tokenization prototypes
 - Proven educational methodology
 - Initial revenue model validation
 
-**Medium-term (6 months)**
+**Program Expansion**
 - Expansion to 5 additional schools
 - 250+ students impacted
 - Partnership with major Web3 protocol
 - Self-sustaining operational model
 - National media recognition
 
-**Long-term (12 months)**
+**National Consolidation**
 - Presence in 3+ Brazilian states
 - 1,000+ certified students
 - Profitable education-as-a-service model
