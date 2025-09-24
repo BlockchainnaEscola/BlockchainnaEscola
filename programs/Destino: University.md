@@ -1,8 +1,8 @@
-# Blockchain na Escola - Destino Devconnect Program
+# Blockchain na Escola - On-chain Schools
 
 ## Opening University Doors: Web3 Onboarding for Public School Students
 
-**Date:** October 6-10, 2025  
+**Date:** October 28-31, 2025  
 **Location:** Belo Horizonte, Minas Gerais, Brazil  
 **Partner Schools:**
 - Escola Estadual Geraldo Jardim Linhares
@@ -78,7 +78,7 @@ The program is based on open source, free tools, widely recognized by the Ethere
 
 | **Category** | **Tools** |
 |--------------|-----------|
-| **Identity and Wallets** | Valora, Metamask |
+| **Identity and Wallets** | Metamask |
 | **Tokenization** | Genadrop, Thirdweb |
 | **DAOs and Governance** | Charmverse, Guild.xyz, Snapshot |
 | **Exploration and Analysis** | Etherscan (Sepolia), Dune Analytics |
@@ -91,7 +91,7 @@ The pedagogical approach is based on active methodologies, project-based learnin
 ## Social Impact: Opening University Doors
 
 ### The Challenge
-Many students from public schools in peripheral communities have never visited a university and are unaware of higher education opportunities available to them. This program represents profound social impact by connecting students from underserved areas with academic and technological environments that can transform their life trajectories.
+Many students from public schools in peripheral communities have never visited a university and are unaware of higher education opportunities available to them. This program represents a profound social impact by connecting students from underserved areas with academic and technological environments that can transform their life trajectories.
 
 ### Our Solution
 Using Destino Devconnect funding exclusively for transportation, meals, and materials to take students out of classrooms and into:
@@ -105,17 +105,6 @@ Each approved student will receive a digital certificate and all documentation w
 
 Schools and mentors also receive certifications, strengthening institutional bonds.
 
-## Budget Breakdown
-
-**Total Requested: $1,000 USD**
-
-- **Transportation** (bus rental for 50 students): $260
-- **Student meals and snacks**: $200
-- **Merchandise and materials**: $200
-- **Mentors and specialists**: $100
-- **Event coordination and logistics**: $240
-
-*Note: All pedagogical activities, educational materials, $NOS tokens, NFT badges, and certifications are self-funded by the organization.*
 
 ## Sustainability and Future Plans
 
