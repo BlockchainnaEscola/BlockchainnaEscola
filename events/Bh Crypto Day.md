@@ -1,5 +1,7 @@
 # 🌿 BH Crypto Day – Belo Horizonte
 
+Article: https://substack.com/inbox/post/148023999?r=4bd0o2&showWelcomeOnShare=true&triedRedirect=true
+
 ### August 10, 2024  
 
 On **August 10**, we developed an unprecedented event in Belo Horizonte, like a special chapter of **Blcktopia** – a project created to bring education about blockchain and Web3 to peripheral and vulnerable communities: **BH Crypto Day**.  
