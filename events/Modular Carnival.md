@@ -3,6 +3,8 @@
 
 *Historic mobilization: A nationwide training course and a landmark event in Minas Gerais' capital*
 
+Posted in Mar 13, 2025: https://medium.com/@blockchainnaescola/blockchain-na-escola-cola-bh-no-modular-carnival-654b98bab584
+
 ## Event Overview
 On **February 26, 2025**, the **Modular Carnival** launched at Minascentro in Belo Horizonte, Minas Gerais - an event created by and for Brazil's Web3 community.
 
@@ -74,9 +76,6 @@ Since 2022, **Blockchain na Escola** has democratized blockchain/Web3 access acr
 
 Events like Modular Carnival prove the power of blending:
 - **Pedagogical strategies**  
-
-Posted in Mar 13, 2025: https://medium.com/@blockchainnaescola/blockchain-na-escola-cola-bh-no-modular-carnival-654b98bab584
-
 - **Technology**  
 - **Art/culture**  
 
