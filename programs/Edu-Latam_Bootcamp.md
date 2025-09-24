@@ -1,4 +1,5 @@
-# Blockchain na Escola - On-chain Schools
+# Blockchain na Escola
+## Edu-Latam: on-chain Schools
 
 ## Opening University Doors: Web3 Onboarding for Public School Students
 
