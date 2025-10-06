@@ -1,6 +1,6 @@
 # Blockchain na Escola
 
-## Web3 Bootcamp for Public School Students
+## Web3 Bootcamp in Schools
 
 **Date:** October 28-31, 2025  
 **Location:** Belo Horizonte, Minas Gerais, Brazil  
