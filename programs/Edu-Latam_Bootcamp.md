@@ -1,5 +1,4 @@
 # Blockchain na Escola
-## Edu-Latam: Web3 Bootcamp
 
 ## Web3 Bootcamp for Public School Students
 
