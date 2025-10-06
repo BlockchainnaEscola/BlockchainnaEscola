@@ -1,7 +1,7 @@
 # Blockchain na Escola
-## Edu-Latam: on-chain Schools
+## Edu-Latam: Web3 Bootcamp
 
-## Opening University Doors: Web3 Onboarding for Public School Students
+## Web3 Bootcamp for Public School Students
 
 **Date:** October 28-31, 2025  
 **Location:** Belo Horizonte, Minas Gerais, Brazil  
