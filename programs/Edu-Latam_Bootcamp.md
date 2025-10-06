@@ -57,7 +57,6 @@ We use $NOS tokens as educational currency, allowing students to receive and sen
 
 | **Sector** | **Partner Institutions/Protocols** |
 |------------|-----------------------------------|
-| Infrastructure and Development | Ethereum Foundation, CELO, Optimism, Arbitrum, Polygon |
 | Crypto Art and Digital Culture | TokenNation, Crypto Rastas, Gnars Nouns |
 | Content, Marketing and Education | Parabuilders, Guild.xyz, Talent Protocol |
 | Web3 Entrepreneurship and Business | Let's Co Create |
