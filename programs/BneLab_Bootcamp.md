@@ -2,11 +2,12 @@
 
 ## Web3 Bootcamp in Schools
 
-**Date:** October 28-31, 2025  
+**Date:** October 22-28, 2025  
 **Location:** Belo Horizonte, Minas Gerais, Brazil  
 **Partner Schools:**
 - Escola Estadual Geraldo Jardim Linhares
 - Escola Estadual Cristiano Machado
+**Tech Hub**: Orbi Conecta
 
 ---
 
